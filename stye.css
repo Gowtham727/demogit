@@ -1,0 +1,33 @@
+._name{
+    color:brown;
+    text-align: center;
+    text-decoration: dashed;
+    text-shadow: 10px;
+    font-size: 20px;
+    
+}
+._email{
+    color:brown;
+    text-align: center;
+    text-decoration: dashed;
+    text-shadow: 20px;
+    font-size: 20px;
+
+}
+._h2{
+    color:grey;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow:50px ;
+}
+._submit{
+   text-align: center;
+}
+
+._name input,._email input{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 3px;
+    border-top-width: 3px;
+}
+
