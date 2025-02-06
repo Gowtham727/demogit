@@ -30,4 +30,25 @@
     border-width: 3px;
     border-top-width: 3px;
 }
+._course{
+    color:brown;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+._mail{
+    color:brown;
+    text-align: center;
+    text-transform: capitalize;
+}
+._id{
+    color:brown;
+    text-align: center;
+    text-transform: capitalize;
+}
+._id input,._course input ,._mail input{
+    border-radius: 10px;
+    border-color: black;
+    color:black;
+}
 
